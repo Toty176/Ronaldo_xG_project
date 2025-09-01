@@ -31,7 +31,3 @@ Two examples from the project:
 ### Top 10% Ronaldo shots by predicted xG vs StatsBomb xG
 ![Comparison plot](assets/ronaldo_top10_xg.png)  
 *(Left: model-predicted xG, Right: StatsBomb official xG)*
-
----
-
-## 📂 Repository Structure
