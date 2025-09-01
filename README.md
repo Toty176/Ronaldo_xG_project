@@ -29,5 +29,5 @@ The project builds a predictive model for shot success, evaluates it against off
 Two examples from the project:
 
 ### Top 10% Ronaldo shots by predicted xG vs StatsBomb xG
-![Comparison plot](assets/output.png)  
+![Comparison plot](output.png)  
 *(Left: model-predicted xG, Right: StatsBomb official xG)*
